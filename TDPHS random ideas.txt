@@ -1,0 +1,6 @@
+TDPHS random ideas
+
+
+
+- Player can't shoot/do combat actions while going through trap os something like that (paralyzed, KOd, etc)
+- Reload status animation

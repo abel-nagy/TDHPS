@@ -1,0 +1,26 @@
+TDPHS Change Log
+
+Gameplay:
+    + Changed gun orientation based on mouse distance from the player so it can shoot precisely to all distances.
+    + Totally rewritten gun script for dynamic use for all guns
+    + Added ammo limit based on how many bullets is in the inventory
+    - Added basic inventory system
+    - Added weapon slot system
+    - Added ammo pickup system
+    - Changed grenade throwing system for different distance throws
+    - Increased map fall damage
+    - Added reload feedback animation
+
+World:
+    - Added ammo pickup stalls
+    + Added more dummies to shoot at for shorter range weapons
+    - Added more dummies to shoot at for sniper rifle(s)
+    - Added moving targets for close range
+    - Added moving targets for long range
+    - Added grenade practice range
+
+UI:
+    - UI beautification
+    + Added basic menu system
+    + Added options menu functionality
+    - Added system to show selected weapon
